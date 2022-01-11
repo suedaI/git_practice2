@@ -1,0 +1,2 @@
+this is an awesome file i added directly from GitHub.Com
+and now i am about to commit directly to GitHub.com repository
